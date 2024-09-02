@@ -1,5 +1,3 @@
-#Demo 2
+# Demo 2
 
-tekst
-
-## local develpoment
+tekst 123
